@@ -1,0 +1,20 @@
+{
+    "Author": "jeffbow",
+    "ContentSize": 3570,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/azure-automation-workflow-to-schedule-starting-of-all-azure-virtual-machines/master/Start-AllAzureVM.ps1",
+    "DownloadCount": 3974,
+    "Id": "Azure-Automation-Workflow-de1b8ba8",
+    "IsFederated": false,
+    "IsWorkflow": true,
+    "Popularity": 547,
+    "RaterCount": 2,
+    "Rating": 5.0,
+    "ReleaseDate": "2014-10-8T00:00:00",
+    "RunbookKind": 6,
+    "RunbookKindString": "PowerShell Workflow",
+    "Summary": "Use this workflow in Azure Automation to schedule your Azure Virtual Machines to start at a specific time of day.  Good for managing test environments created under MSDN subscriptions.  Use in conjunction with Stop-AllAzureVM.ps1",
+    "Title": "Azure Automation Workflow to Schedule starting of all Azure Virtual Machines",
+    "UpdatedDate": "2015-3-31T00:00:00",
+    "Url": "https://github.com/azureautomation/azure-automation-workflow-to-schedule-starting-of-all-azure-virtual-machines",
+    "UserTags": "VM Lifecycle Management"
+}
